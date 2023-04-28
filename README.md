@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44F71E&center=true&vCenter=true&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Kaio+Vieira!+%F0%9F%A4%99)](https://git.io/typing-svg)
 <p align="right" width="100%">
     <img width="300%" src="https://user-images.githubusercontent.com/131681408/235264479-4e278a31-3128-479c-9aea-0b4605d0d071.gif">
-</p> 
+</p>
 
 ## Redes 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ka1o_vieira?igshid=YmMyMTA2M2Y=)
