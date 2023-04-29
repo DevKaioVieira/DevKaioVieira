@@ -23,6 +23,7 @@
   <img width="470%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevKaioVieira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kaio Vieira github stats" /> 
   <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKaioVieira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 <p align="center" width="100%">
     <img width="35%" src="https://user-images.githubusercontent.com/131681408/235038704-0760b1aa-1461-4312-a006-d1502a824746.gif">
 </p> 
